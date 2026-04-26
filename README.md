@@ -26,7 +26,10 @@ To ensure performance and accuracy, I focused on a clean architecture:
 ## 📸 Dashboard Screenshots
 
 ### Growth
-![Dashboard Overview](Screenshot%202026-04-25%20213143.png)
+![Dashboard Overview](Screenshot%202026-04-26%20155140.png)
+
+### Details
+![Dashboard Overview](Screenshot%202026-04-26%20161119.png)
 
 ---
 ### Key findings
